@@ -1,2 +1,3 @@
 # blam2022
-testing Github repo
+
+This repo aims at testing Github repo funcitons
